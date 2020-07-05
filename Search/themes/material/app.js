@@ -16,6 +16,7 @@ function init(){
     if(dark){
         html += `
         <div id="nav" class="mdui-toolbar mdui-container mdui-text-color-white-text">
+	IDFL TEAM
         </div>`;
     }else{
         html += `
